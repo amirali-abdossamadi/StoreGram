@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirali-abdossamadi/StoreGram.git"
+  },
+  "author": "Amir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirali-abdossamadi/StoreGram/issues"
+  },
+  "homepage": "https://github.com/amirali-abdossamadi/StoreGram#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
